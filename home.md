@@ -3,6 +3,6 @@
 
 # Bem vindo a WIKI
 
-## Aqui você encontrará todas as informações sobre o ambiente.
+## http://192.168.31.31/zabbix#zabbix
 
 
