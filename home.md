@@ -3,7 +3,7 @@
 
 # Bem vindo a WIKI
 
- [Blog do Da2k](https://blog.da2k.com.br)
+ [Blog do Da2k](http://192.168.31.31/zabbix#zabbix)
 
 
 
