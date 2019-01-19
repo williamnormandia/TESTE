@@ -3,6 +3,7 @@
 
 # Bem vindo a WIKI
 
-## http://192.168.31.31/zabbix#zabbix
+## [Blog do Da2k](https://blog.da2k.com.br)
+
 
 
