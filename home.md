@@ -4,3 +4,7 @@
 # ZABBIX
 
 ## INSTALL GUIDE
+
+-----
+![Zabbix](/uploads/zabbix.jpg "Zabbix")
+
